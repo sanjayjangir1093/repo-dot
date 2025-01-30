@@ -1,0 +1,11 @@
+C:\Deploy\DemoApi.exe
+C:\Deploy\appsettings.Development.json
+C:\Deploy\appsettings.json
+C:\Deploy\DemoApi.dll
+C:\Deploy\DemoApi.deps.json
+C:\Deploy\DemoApi.runtimeconfig.json
+C:\Deploy\DemoApi.pdb
+C:\Deploy\Microsoft.OpenApi.dll
+C:\Deploy\Swashbuckle.AspNetCore.Swagger.dll
+C:\Deploy\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Deploy\Swashbuckle.AspNetCore.SwaggerUI.dll

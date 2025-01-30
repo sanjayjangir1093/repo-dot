@@ -1,0 +1,11 @@
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\DemoApi.exe
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\appsettings.json
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\DemoApi.dll
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\DemoApi.deps.json
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\DemoApi.runtimeconfig.json
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\DemoApi.pdb
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dummy Dotnet 2\DemoApi\DemoApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
